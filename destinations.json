@@ -1,0 +1,10 @@
+[
+  { "name": "Tel Aviv", "desc": "Best city on Earth", "score": "10" },
+  {
+    "name": "Barcelona",
+    "desc": "City with the best Football club in the World",
+    "score": "9"
+  },
+  { "name": "Madrid", "desc": "trash Football club", "score": "5" },
+  { "name": "L.A", "desc": "Best City in America", "score": "9" }
+]

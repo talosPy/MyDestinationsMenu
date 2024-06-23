@@ -12,11 +12,16 @@
     {
         "name": "Madrid",
         "desc": "Trash FC",
-        "score": "5"
+        "score": "3"
     },
     {
         "name": "Jerusalem",
         "desc": "Capital of Israel",
         "score": "10"
+    },
+    {
+        "name": "Haifa",
+        "desc": "Great city in the north",
+        "score": "9"
     }
 ]
